@@ -1,0 +1,152 @@
+landscape:
+  - category:
+    name: AOUSD Members
+    subcategories:
+      - subcategory:
+        name: Steering
+        items:
+          - item:
+            name: Adobe Inc.
+            homepage_url: https://adobe.com/
+            logo: adobe_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/adobe-systems
+          - item:
+            name: Apple Inc.
+            homepage_url: https://apple.com/
+            logo: apple_inc.svg
+            twitter: https://twitter.com/Apple
+            crunchbase: https://www.crunchbase.com/organization/apple
+          - item:
+            name: Autodesk
+            homepage_url: https://autodesk.com/
+            logo: autodesk.svg
+            crunchbase: https://www.crunchbase.com/organization/autodesk
+          - item:
+            name: NVIDIA Corporation
+            homepage_url: https://nvidia.com/
+            logo: nvidia_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+          - item:
+            name: The Walt Disney Studios
+            homepage_url: https://disney.com/
+            logo: the_walt_disney_studios.svg
+            twitter: https://twitter.com/Disney
+            crunchbase: https://www.crunchbase.com/organization/walt-disney-internet-group
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Ansys
+            homepage_url: https://ansys.com/
+            logo: ansys.svg
+            twitter: https://twitter.com/ANSYS
+            crunchbase: https://www.crunchbase.com/organization/ansys
+          - item:
+            name: Bright Machines, Inc.
+            homepage_url: https://brightmachines.com/
+            logo: bright_machines_inc.svg
+            organization:
+              name: Bright Machines, Inc.
+          - item:
+            name: Cesium
+            homepage_url: https://cesium.com/
+            logo: cesium.svg
+            twitter: https://twitter.com/CesiumJS
+            crunchbase: https://www.crunchbase.com/organization/cesium
+          - item:
+            name: Chaos Software LTD
+            homepage_url: https://chaos.com/
+            logo: chaos_software_ltd.svg
+            organization:
+              name: Chaos Software LTD
+          - item:
+            name: DigitalFish Inc
+            homepage_url: https://digitalfish.com/
+            logo: digitalfish_inc.svg
+            organization:
+              name: DigitalFish Inc
+          - item:
+            name: Epic Games, Inc
+            homepage_url: https://epicgames.com/
+            logo: epic_games_inc.svg
+            twitter: https://twitter.com/EpicGames
+            crunchbase: https://www.crunchbase.com/organization/epic-games-2
+          - item:
+            name: Guangdong Sanweijia Information Technology Co., Ltd
+            homepage_url: https://3vjia.com/
+            logo: guangdong_sanweijia_information_technology_co_ltd.svg
+            organization:
+              name: Guangdong Sanweijia Information Technology Co., Ltd
+          - item:
+            name: Hexagon AB
+            homepage_url: https://hexagon.com/
+            logo: hexagon_ab.svg
+            crunchbase: https://www.crunchbase.com/organization/hexagon
+          - item:
+            name: IKEA Marketing & Communication AB
+            homepage_url: https://ikea.com/
+            logo: ikea_marketing__communication_ab.svg
+            twitter: https://twitter.com/IKEA
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
+          - item:
+            name: Intel Corporation
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Maxon Computer GmbH
+            homepage_url: https://maxon.net/
+            logo: maxon_computer_gmbh.svg
+            twitter: https://twitter.com/MaxonVFX
+            crunchbase: https://www.crunchbase.com/organization/maxon-computer
+          - item:
+            name: OTOY, Inc.
+            homepage_url: https://otoy.com/
+            logo: otoy_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/otoy
+          - item:
+            name: SideFX (Side Effects Software Inc)
+            homepage_url: https://sidefx.com/
+            logo: sidefx_side_effects_software_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/side-effects-software-inc
+          - item:
+            name: Siemens AG
+            homepage_url: https://siemens.com/
+            logo: siemens_ag.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
+          - item:
+            name: Sony Group Corporation
+            homepage_url: https://sony.com/
+            logo: sony_group_corporation.svg
+            twitter: https://twitter.com/SonyGroupGlobal
+            crunchbase: https://www.crunchbase.com/organization/sony-electronics
+          - item:
+            name: Spatial
+            homepage_url: https://spatialinc.com/
+            logo: spatial.svg
+            organization:
+              name: Spatial
+          - item:
+            name: The Foundry Visionmongers Limited
+            homepage_url: https://foundry.com/
+            logo: the_foundry_visionmongers_limited.svg
+            twitter: https://twitter.com/TheFoundryTeam
+            crunchbase: https://www.crunchbase.com/organization/foundry
+          - item:
+            name: Trimble Inc.
+            homepage_url: https://trimble.com/
+            logo: trimble_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/trimble
+          - item:
+            name: Worley Limited
+            homepage_url: https://worley.com/
+            logo: worley_limited.svg
+            organization:
+              name: Worley Limited
+          - item:
+            name: WPP plc
+            homepage_url: https://wpp.com/
+            logo: wpp_plc.svg
+            organization:
+              name: WPP plc
