@@ -9,22 +9,27 @@ landscape:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
             logo: adobe_inc.svg
+            twitter: https://twitter.com/Adobe
             crunchbase: https://www.crunchbase.com/organization/adobe-systems
+            joined: '2022-10-13'
           - item:
             name: Apple Inc.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
             twitter: https://twitter.com/Apple
             crunchbase: https://www.crunchbase.com/organization/apple
+            joined: '2019-05-01'
           - item:
             name: Autodesk
             homepage_url: https://autodesk.com/
             logo: autodesk.svg
+            twitter: https://twitter.com/autodesk
             crunchbase: https://www.crunchbase.com/organization/autodesk
           - item:
             name: NVIDIA Corporation
             homepage_url: https://nvidia.com/
             logo: nvidia_corporation.svg
+            twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: The Walt Disney Studios
@@ -72,11 +77,11 @@ landscape:
             twitter: https://twitter.com/EpicGames
             crunchbase: https://www.crunchbase.com/organization/epic-games-2
           - item:
-            name: Guangdong Sanweijia Information Technology Co., Ltd
+            name: Guangdong Sunvega Information Technology Co., Ltd
             homepage_url: https://3vjia.com/
-            logo: guangdong_sanweijia_information_technology_co_ltd.svg
+            logo: guangdong_sunvega_information_technology_co_ltd.svg
             organization:
-              name: Guangdong Sanweijia Information Technology Co., Ltd
+              name: Guangdong Sunvega Information Technology Co., Ltd
           - item:
             name: Hexagon AB
             homepage_url: https://hexagon.com/
@@ -104,16 +109,19 @@ landscape:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
             logo: otoy_inc.svg
+            twitter: https://twitter.com/OTOY
             crunchbase: https://www.crunchbase.com/organization/otoy
           - item:
             name: SideFX (Side Effects Software Inc)
             homepage_url: https://sidefx.com/
             logo: sidefx_side_effects_software_inc.svg
+            twitter: https://twitter.com/sidefx
             crunchbase: https://www.crunchbase.com/organization/side-effects-software-inc
           - item:
             name: Siemens AG
             homepage_url: https://siemens.com/
             logo: siemens_ag.svg
+            twitter: https://twitter.com/Siemens
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Sony Group Corporation
@@ -137,6 +145,7 @@ landscape:
             name: Trimble Inc.
             homepage_url: https://trimble.com/
             logo: trimble_inc.svg
+            twitter: https://twitter.com/TrimbleCorpNews
             crunchbase: https://www.crunchbase.com/organization/trimble
           - item:
             name: Worley Limited
