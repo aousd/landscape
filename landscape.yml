@@ -100,6 +100,12 @@ landscape:
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
+            name: Lowe's Companies, Inc.
+            homepage_url: https://lowes.com/
+            logo: lowes_companies_inc.svg
+            twitter: https://twitter.com/Lowes
+            crunchbase: https://www.crunchbase.com/organization/lowes
+          - item:
             name: Maxon Computer GmbH
             homepage_url: https://maxon.net/
             logo: maxon_computer_gmbh.svg
