@@ -88,17 +88,16 @@ landscape:
             logo: hexagon_ab.svg
             crunchbase: https://www.crunchbase.com/organization/hexagon
           - item:
-            name: IKEA Marketing & Communication AB
-            homepage_url: https://ikea.com/
-            logo: ikea_marketing__communication_ab.svg
-            twitter: https://twitter.com/IKEA
-            crunchbase: https://www.crunchbase.com/organization/ikea-systems
-          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: Inter IKEA Systems B.V.
+            homepage_url: https://inter.ikea.com/
+            logo: inter_ikea_systems_bv.svg
+            crunchbase: https://www.crunchbase.com/organization/ikea
           - item:
             name: Lowe's Companies, Inc.
             homepage_url: https://lowes.com/
@@ -140,7 +139,7 @@ landscape:
             homepage_url: https://sony.com/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-electronics
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
           - item:
             name: Spatial
             homepage_url: https://spatialinc.com/
