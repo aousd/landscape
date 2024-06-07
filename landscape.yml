@@ -97,7 +97,7 @@ landscape:
             name: Inter IKEA Systems B.V.
             homepage_url: https://inter.ikea.com/
             logo: inter_ikea_systems_bv.svg
-            crunchbase: https://www.crunchbase.com/organization/ikea
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: Lowe's Companies, Inc.
             homepage_url: https://lowes.com/
@@ -136,7 +136,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Sony Group Corporation
-            homepage_url: https://sony.com/
+            homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
             crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
