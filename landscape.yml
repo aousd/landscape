@@ -88,6 +88,12 @@ landscape:
             logo: hexagon_ab.svg
             crunchbase: https://www.crunchbase.com/organization/hexagon
           - item:
+            name: Hunan Mango Innocreative Technology Co., Ltd
+            homepage_url: https://cloud.mg.xyz/
+            logo: hunan_mango_innocreative_technology_co_ltd.svg
+            organization:
+              name: Hunan Mango Innocreative Technology Co., Ltd
+          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
