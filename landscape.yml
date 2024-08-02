@@ -88,6 +88,12 @@ landscape:
             logo: hexagon_ab.svg
             crunchbase: https://www.crunchbase.com/organization/hexagon
           - item:
+            name: Hon Hai Precision Industry Co., Ltd.
+            homepage_url: https://foxconn.com/
+            logo: hon_hai_precision_industry_co_ltd.svg
+            twitter: https://twitter.com/FoxconnSlave
+            crunchbase: https://www.crunchbase.com/organization/foxconn-technology-group
+          - item:
             name: Hunan Mango Innocreative Technology Co., Ltd
             homepage_url: https://cloud.mg.xyz/
             logo: hunan_mango_innocreative_technology_co_ltd.svg
@@ -123,11 +129,22 @@ landscape:
             twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
             logo: otoy_inc.svg
             twitter: https://twitter.com/OTOY
             crunchbase: https://www.crunchbase.com/organization/otoy
+          - item:
+            name: Shutterstock, Inc.
+            homepage_url: https://shutterstock.com/
+            logo: shutterstock_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/shutterstock
           - item:
             name: SideFX (Side Effects Software Inc)
             homepage_url: https://sidefx.com/
