@@ -141,6 +141,12 @@ landscape:
             twitter: https://twitter.com/OTOY
             crunchbase: https://www.crunchbase.com/organization/otoy
           - item:
+            name: Pickford
+            homepage_url: https://pickford.ai/
+            logo: pickford.svg
+            organization:
+              name: Pickford
+          - item:
             name: Shutterstock, Inc.
             homepage_url: https://shutterstock.com/
             logo: shutterstock_inc.svg
