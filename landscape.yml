@@ -17,7 +17,6 @@ landscape:
             logo: apple_inc.svg
             twitter: https://twitter.com/Apple
             crunchbase: https://www.crunchbase.com/organization/apple
-            joined: '2019-05-01'
           - item:
             name: Autodesk
             homepage_url: https://autodesk.com/
@@ -51,6 +50,7 @@ landscape:
             logo: bright_machines_inc.svg
             organization:
               name: Bright Machines, Inc.
+              linkedin: https://www.linkedin.com/company/bright-machines
           - item:
             name: Cesium
             homepage_url: https://cesium.com/
@@ -63,12 +63,14 @@ landscape:
             logo: chaos_software_ltd.svg
             organization:
               name: Chaos Software LTD
+              linkedin: https://www.linkedin.com/company/chaos-group
           - item:
             name: DigitalFish Inc
             homepage_url: https://digitalfish.com/
             logo: digitalfish_inc.svg
             organization:
               name: DigitalFish Inc
+              linkedin: https://www.linkedin.com/company/digitalfish-inc
           - item:
             name: Epic Games, Inc
             homepage_url: https://epicgames.com/
@@ -78,7 +80,7 @@ landscape:
           - item:
             name: Guangdong Sunvega Information Technology Co., Ltd
             homepage_url: https://3vjia.com/
-            logo: guangdong_sunvega_information_technology_co_ltd.svg
+            logo: guangdong_sunvega_information_technology_co.svg
             organization:
               name: Guangdong Sunvega Information Technology Co., Ltd
           - item:
@@ -95,7 +97,7 @@ landscape:
           - item:
             name: Hunan Mango Innocreative Technology Co., Ltd
             homepage_url: https://cloud.mg.xyz/
-            logo: hunan_mango_innocreative_technology_co_ltd.svg
+            logo: hunan_mango_innocreative_technology_co.svg
             organization:
               name: Hunan Mango Innocreative Technology Co., Ltd
           - item:
@@ -107,12 +109,12 @@ landscape:
           - item:
             name: Inter IKEA Systems B.V.
             homepage_url: https://inter.ikea.com/
-            logo: inter_ikea_systems_bv.svg
+            logo: inter_ikea_systems_b_v.svg
             crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: Lowe's Companies, Inc.
             homepage_url: https://lowes.com/
-            logo: lowes_companies_inc.svg
+            logo: lowe_s_companies_inc.svg
             twitter: https://twitter.com/Lowes
             crunchbase: https://www.crunchbase.com/organization/lowes
           - item:
@@ -174,6 +176,7 @@ landscape:
             logo: spatial.svg
             organization:
               name: Spatial
+              linkedin: https://www.linkedin.com/company/spatialinc
           - item:
             name: The Foundry Visionmongers Limited
             homepage_url: https://foundry.com/
@@ -192,9 +195,11 @@ landscape:
             logo: worley_limited.svg
             organization:
               name: Worley Limited
+              linkedin: https://www.linkedin.com/company/worley
           - item:
             name: WPP plc
             homepage_url: https://wpp.com/
             logo: wpp_plc.svg
             organization:
               name: WPP plc
+              linkedin: https://www.linkedin.com/company/wpp
