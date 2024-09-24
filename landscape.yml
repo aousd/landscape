@@ -8,30 +8,35 @@ landscape:
           - item:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
+            project: null
             logo: adobe_inc.svg
             twitter: https://twitter.com/Adobe
             crunchbase: https://www.crunchbase.com/organization/adobe-systems
           - item:
             name: Apple Inc.
             homepage_url: https://apple.com/
+            project: null
             logo: apple_inc.svg
             twitter: https://twitter.com/Apple
             crunchbase: https://www.crunchbase.com/organization/apple
           - item:
             name: Autodesk
             homepage_url: https://autodesk.com/
+            project: null
             logo: autodesk.svg
             twitter: https://twitter.com/autodesk
             crunchbase: https://www.crunchbase.com/organization/autodesk
           - item:
             name: NVIDIA Corporation
             homepage_url: https://nvidia.com/
+            project: null
             logo: nvidia_corporation.svg
             twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: The Walt Disney Studios
             homepage_url: https://disney.com/
+            project: null
             logo: the_walt_disney_studios.svg
             twitter: https://twitter.com/Disney
             crunchbase: https://www.crunchbase.com/organization/walt-disney-internet-group
@@ -41,12 +46,14 @@ landscape:
           - item:
             name: Ansys
             homepage_url: https://ansys.com/
+            project: null
             logo: ansys.svg
             twitter: https://twitter.com/ANSYS
             crunchbase: https://www.crunchbase.com/organization/ansys
           - item:
             name: Bright Machines, Inc.
             homepage_url: https://brightmachines.com/
+            project: null
             logo: bright_machines_inc.svg
             organization:
               name: Bright Machines, Inc.
@@ -54,12 +61,14 @@ landscape:
           - item:
             name: Cesium
             homepage_url: https://cesium.com/
+            project: null
             logo: cesium.svg
             twitter: https://twitter.com/CesiumJS
             crunchbase: https://www.crunchbase.com/organization/cesium
           - item:
             name: Chaos Software LTD
             homepage_url: https://chaos.com/
+            project: null
             logo: chaos_software_ltd.svg
             organization:
               name: Chaos Software LTD
@@ -67,6 +76,7 @@ landscape:
           - item:
             name: DigitalFish Inc
             homepage_url: https://digitalfish.com/
+            project: null
             logo: digitalfish_inc.svg
             organization:
               name: DigitalFish Inc
@@ -74,105 +84,123 @@ landscape:
           - item:
             name: Epic Games, Inc
             homepage_url: https://epicgames.com/
+            project: null
             logo: epic_games_inc.svg
             twitter: https://twitter.com/EpicGames
             crunchbase: https://www.crunchbase.com/organization/epic-games-2
           - item:
             name: Guangdong Sunvega Information Technology Co., Ltd
             homepage_url: https://3vjia.com/
+            project: null
             logo: guangdong_sunvega_information_technology_co.svg
             organization:
               name: Guangdong Sunvega Information Technology Co., Ltd
           - item:
             name: Hexagon AB
             homepage_url: https://hexagon.com/
+            project: null
             logo: hexagon_ab.svg
             crunchbase: https://www.crunchbase.com/organization/hexagon
           - item:
             name: Hon Hai Precision Industry Co., Ltd.
             homepage_url: https://foxconn.com/
+            project: null
             logo: hon_hai_precision_industry_co_ltd.svg
             twitter: https://twitter.com/FoxconnSlave
             crunchbase: https://www.crunchbase.com/organization/foxconn-technology-group
           - item:
             name: Hunan Mango Innocreative Technology Co., Ltd
             homepage_url: https://cloud.mg.xyz/
+            project: null
             logo: hunan_mango_innocreative_technology_co.svg
             organization:
               name: Hunan Mango Innocreative Technology Co., Ltd
           - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
+            project: null
             logo: intel_corporation.svg
             twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Inter IKEA Systems B.V.
             homepage_url: https://inter.ikea.com/
+            project: null
             logo: inter_ikea_systems_b_v.svg
             crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: Lowe's Companies, Inc.
             homepage_url: https://lowes.com/
+            project: null
             logo: lowe_s_companies_inc.svg
             twitter: https://twitter.com/Lowes
             crunchbase: https://www.crunchbase.com/organization/lowes
           - item:
             name: Maxon Computer GmbH
             homepage_url: https://maxon.net/
+            project: null
             logo: maxon_computer_gmbh.svg
             twitter: https://twitter.com/MaxonVFX
             crunchbase: https://www.crunchbase.com/organization/maxon-computer
           - item:
             name: Meta Platforms, Inc.
             homepage_url: https://meta.com/
+            project: null
             logo: meta_platforms_inc.svg
             twitter: https://twitter.com/Meta
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
+            project: null
             logo: microsoft_corporation.svg
             twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
+            project: null
             logo: otoy_inc.svg
             twitter: https://twitter.com/OTOY
             crunchbase: https://www.crunchbase.com/organization/otoy
           - item:
             name: Pickford
             homepage_url: https://pickford.ai/
+            project: null
             logo: pickford.svg
             organization:
               name: Pickford
           - item:
             name: Shutterstock, Inc.
             homepage_url: https://shutterstock.com/
+            project: null
             logo: shutterstock_inc.svg
             crunchbase: https://www.crunchbase.com/organization/shutterstock
           - item:
             name: SideFX (Side Effects Software Inc)
             homepage_url: https://sidefx.com/
+            project: null
             logo: sidefx_side_effects_software_inc.svg
             twitter: https://twitter.com/sidefx
             crunchbase: https://www.crunchbase.com/organization/side-effects-software-inc
           - item:
             name: Siemens AG
             homepage_url: https://siemens.com/
+            project: null
             logo: siemens_ag.svg
             twitter: https://twitter.com/Siemens
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Sony Group Corporation
             homepage_url: https://sony.com/en/
+            project: null
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
             crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
           - item:
             name: Spatial
             homepage_url: https://spatialinc.com/
+            project: null
             logo: spatial.svg
             organization:
               name: Spatial
@@ -180,18 +208,21 @@ landscape:
           - item:
             name: The Foundry Visionmongers Limited
             homepage_url: https://foundry.com/
+            project: null
             logo: the_foundry_visionmongers_limited.svg
             twitter: https://twitter.com/TheFoundryTeam
             crunchbase: https://www.crunchbase.com/organization/foundry
           - item:
             name: Trimble Inc.
             homepage_url: https://trimble.com/
+            project: null
             logo: trimble_inc.svg
             twitter: https://twitter.com/TrimbleCorpNews
             crunchbase: https://www.crunchbase.com/organization/trimble
           - item:
             name: Worley Limited
             homepage_url: https://worley.com/
+            project: null
             logo: worley_limited.svg
             organization:
               name: Worley Limited
@@ -199,6 +230,7 @@ landscape:
           - item:
             name: WPP plc
             homepage_url: https://wpp.com/
+            project: null
             logo: wpp_plc.svg
             organization:
               name: WPP plc
