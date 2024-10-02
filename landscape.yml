@@ -59,6 +59,13 @@ landscape:
               name: Bright Machines, Inc.
               linkedin: https://www.linkedin.com/company/bright-machines
           - item:
+            name: Cadence Design Systems, Inc.
+            homepage_url: https://cadence.com/
+            project: null
+            logo: cadence_design_systems_inc.svg
+            twitter: https://twitter.com/Cadence
+            crunchbase: https://www.crunchbase.com/organization/cadence-design-systems
+          - item:
             name: Cesium
             homepage_url: https://cesium.com/
             project: null
