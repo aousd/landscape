@@ -89,13 +89,6 @@ landscape:
               name: DigitalFish Inc
               linkedin: https://www.linkedin.com/company/digitalfish-inc
           - item:
-            name: Epic Games, Inc
-            homepage_url: https://epicgames.com/
-            project: null
-            logo: epic_games_inc.svg
-            twitter: https://twitter.com/EpicGames
-            crunchbase: https://www.crunchbase.com/organization/epic-games-2
-          - item:
             name: Guangdong Sunvega Information Technology Co., Ltd
             homepage_url: https://3vjia.com/
             project: null
