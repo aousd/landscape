@@ -1,36 +1,37 @@
 foundation: Alliance for OpenUSD (AOUSD)
-url: http://127.0.0.1:8000
+url: https://aousd.landscape2.io
+
+analytics:
+  gtm:
+    container_id: GTM-5QC4L5QJ
+
 colors:
-  color1: rgba(0, 107, 204, 1)
-  color2: rgba(255, 0, 170, 1)
-  color3: rgba(96, 149, 214, 1)
-  color4: rgba(0, 42, 81, 0.7)
-  color5: rgba(1, 107, 204, 0.7)
-  color6: rgba(0, 42, 81, 0.7)
-  color7: rgba(0, 42, 81, 0.7)
-featured_items:
-  - field: maturity
-    options:
-      - value: graduated
-        order: 1
-        label: Graduated
+  color1: rgba(32, 145, 208, 1)
+  color2: rgba(5, 85, 182, 1)
+  color3: rgba(32, 145, 208, 1)
+  color4: rgba(32, 145, 208, 0.9)
+  color5: rgba(32, 145, 208, 0.85)
+  color6: rgba(52, 198, 243, 0.85)
+  color7: rgba(232, 244, 250, 1)
+
 footer:
   links:
-    facebook: https://www.facebook.com/CloudNativeComputingFoundation/
-    flickr: https://www.flickr.com/photos/143247548@N03/albums
-    github: https://github.com/cncf
-    homepage: https://cncf.io
-    instagram: https://www.instagram.com/humans.of.cloudnative/
-    linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation/
-    slack: https://slack.cncf.io/
-    twitch: https://www.twitch.tv/cloudnativefdn
-    twitter: https://twitter.com/cloudnativefdn
-    wechat: https://www.cncf.io/wechat/
-    youtube: https://www.youtube.com/c/cloudnativefdn
-  logo: https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg
+    facebook: https://www.facebook.com/allianceopenusd
+    github: https://github.com/aousd
+    homepage: https://aousd.org
+    instagram: https://www.instagram.com/allianceopenusd/
+    linkedin: https://www.linkedin.com/company/allianceopenusd/
+    twitter: https://twitter.com/allianceopenusd
+    youtube: https://www.youtube.com/@AllianceOpenUSD
+  logo: https://aousd.org/wp-content/uploads/sites/28/2023/07/logo-vertical-white.svg
+  text: |
+    Copyright © Alliance for OpenUSD. All rights reserved. Alliance for OpenUSD is a [Joint Development Foundation Project](https://jointdevelopment.org/), an affiliate of the [Linux Foundation](https://www.linuxfoundation.org/). [Privacy Policy](https://jointdevelopment.org/terms) and [Terms of Use](https://jointdevelopment.org/terms).
+    
 grid_items_size: large
+
 header:
   links:
-    github: https://github.com/cncf/landscape2
-  logo: https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg
+    github: https://github.com/aousd/landscape
+  logo: https://aousd.org/wp-content/uploads/sites/28/2023/07/logo-horizontal-color.svg
+
 screenshot_width: 1500
