@@ -95,6 +95,12 @@ landscape:
             logo: hexagon_ab.svg
             crunchbase: https://www.crunchbase.com/organization/hexagon
           - item:
+            name: Homestyler (Shanghai) Techonology Co., Ltd
+            homepage_url: https://homestyler.com/
+            logo: homestyler_shanghai_techonology_co.svg
+            organization:
+              name: Homestyler (Shanghai) Techonology Co., Ltd
+          - item:
             name: Hon Hai Precision Industry Co., Ltd.
             homepage_url: https://foxconn.com/
             logo: hon_hai_precision_industry_co_ltd.svg
