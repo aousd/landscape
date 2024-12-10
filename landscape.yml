@@ -185,6 +185,18 @@ landscape:
               name: Chaos Software LTD
               linkedin: https://www.linkedin.com/company/chaos-group
           - item:
+            name: Delta Electronics, INC. (incorporate)
+            description: >-
+              Delta Electronics is a global provider of power and thermal management solutions. Delta is also a provider of industrial automation, building
+              automation, and energy and ICT infrastructure. Delta products include fans, power systems, telecom systems, networking, industrial power, and
+              renewable energy solutions. Delta Electronics is headquartered in Taipei, Taiwan with operations around the world.
+            homepage_url: https://deltaww.com/
+            logo: delta_electronics_inc.svg
+            twitter: https://twitter.com/Delta_Americas
+            crunchbase: https://www.crunchbase.com/organization/delta-electronics-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/delta-electronics
+          - item:
             name: DigitalFish Inc
             description: >-
               DigitalFish specializes in providing software solutions and support for digital storytellers, focusing on enhancing animation processes and
