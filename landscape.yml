@@ -364,6 +364,18 @@ landscape:
             organization:
               name: Pickford
           - item:
+            name: Rockwell Automation
+            description: >-
+              Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its
+              customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000
+              people serving customers in more than 80 countries.
+            homepage_url: https://rockwellautomation.com/
+            logo: rockwell_automation.svg
+            twitter: https://twitter.com/ROKAutomation
+            crunchbase: https://www.crunchbase.com/organization/rockwell-automation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rockwell-automation
+          - item:
             name: Shutterstock, Inc.
             description: >-
               Shutterstock is a global creative platform offering full service solutions, high quality content, and tools for brands, businesses and media
