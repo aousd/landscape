@@ -397,6 +397,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/side-effects-software
           - item:
+            name: Siemens AG
+            description: >-
+              Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of
+              energy-efficient, resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power
+              generation. Siemens is a provider of power transmission and infrastructure solutions as well as automation, drive and software solutions. The
+              company also provides medical imaging equipment such as computed tomography and magnetic resonance imaging systems. Siemens is headquartered in
+              Munich, Germany.
+            homepage_url: https://siemens.com/
+            logo: siemens_ag.svg
+            twitter: https://twitter.com/Siemens
+            crunchbase: https://www.crunchbase.com/organization/siemens
+            extra:
+              linkedin_url: https://www.linkedin.com/company/siemens
+          - item:
             name: Sony Group Corporation
             description: >-
               SONY CORPORATION is engaged in the operation of imaging products and solution (IP&S), game, mobile products and communication (MP&C), home
