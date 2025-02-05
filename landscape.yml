@@ -297,6 +297,25 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ikea
           - item:
+            name: Kondux
+            description: >-
+              Kondux is a company that specializes in developing and operating a Web3 dApp called Kondux kNFT Marketplace. The marketplace is designed to
+              facilitate the buying, selling, and trading of kNFTs (Kondux Non-Fungible Tokens). These tokens represent unique...
+
+
+              --- Merged Data:
+
+
+              Kondux is a Web3 design lab for artists and brands. They seek to expand the metaverse with AI-powered technology and NVIDIA Omniverse tools. They
+              build the gateway to bridge the worlds of crypto and NFTs to the 3D internet through 'real-time rollups' u...
+            homepage_url: https://kondux.io/
+            logo: kondux.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kondux-labs
+            organization:
+              name: Kondux
+              linkedin: https://www.linkedin.com/company/kondux-labs
+          - item:
             name: Lowe's Companies, Inc.
             description: >-
               Lowe's Companies is a chain of retail home improvement and appliance stores, with stores throughout North America. The company offers products and
