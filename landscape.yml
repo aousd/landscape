@@ -299,15 +299,12 @@ landscape:
           - item:
             name: Kondux
             description: >-
-              Kondux is a company that specializes in developing and operating a Web3 dApp called Kondux kNFT Marketplace. The marketplace is designed to
-              facilitate the buying, selling, and trading of kNFTs (Kondux Non-Fungible Tokens). These tokens represent unique...
+              Kondux is solving the fundamental problem of 3D asset security, open source interoperability, and ownership rights in an increasingly
+              digital-first creative economy.
 
 
-              --- Merged Data:
-
-
-              Kondux is a Web3 design lab for artists and brands. They seek to expand the metaverse with AI-powered technology and NVIDIA Omniverse tools. They
-              build the gateway to bridge the worlds of crypto and NFTs to the 3D internet through 'real-time rollups' u...
+              Our platform is built on the idea that 3D assets, AI-driven tools, tokenization pipelines and immersive environments should be lightweight, and
+              accessible to all across multiple tools, platforms, and industries.
             homepage_url: https://kondux.io/
             logo: kondux.svg
             extra:
