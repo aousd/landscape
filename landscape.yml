@@ -87,6 +87,24 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ansys-inc
           - item:
+            name: Bentley Systems
+            description: >-
+              Bentley Systems, Inc. provides architects, engineers, constructors, and owner-operators with comprehensive software solutions for sustaining
+              infrastructure. Bentley Systems is a privately owned company and is headquartered in Exton, PA.
+
+
+              --- Merged Data:
+
+
+              Bentley Systems, Incorporated, is an American-based software development company that develops, manufactures, licenses, sells and supports
+              computer software and services for the design, construction, and operation of infrastructure.
+            homepage_url: https://bentley.com/
+            logo: bentley_systems.svg
+            twitter: https://twitter.com/BentleySystems
+            crunchbase: https://www.crunchbase.com/organization/bentley-systems
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bentley-systems
+          - item:
             name: Bright Machines, Inc.
             description: >-
               Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more
@@ -161,17 +179,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cadence-design-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/cadence-design-systems
-          - item:
-            name: Cesium
-            description: >-
-              The Cesium platform provides the foundations any software application needs to utilize 3D geospatial data: visualization, data pipelines, curated
-              data, and analytics. Based on open standards for data formats, open APIs for customization and integration...
-            homepage_url: https://cesium.com/
-            logo: cesium.svg
-            twitter: https://twitter.com/CesiumJS
-            crunchbase: https://www.crunchbase.com/organization/cesium
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cesium-gs
           - item:
             name: Chaos Software LTD
             description: >-
