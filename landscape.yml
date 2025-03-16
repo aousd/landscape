@@ -254,8 +254,11 @@ landscape:
               rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
             homepage_url: https://homestyler.com/
             logo: homestyler_shanghai_techonology_co.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/homestyler3d
             organization:
               name: Homestyler (Shanghai) Techonology Co., Ltd
+              linkedin: https://www.linkedin.com/company/homestyler3d
           - item:
             name: Hon Hai Precision Industry Co., Ltd.
             description: Hon Hai Precision Industry Co., Ltd.,
