@@ -69,17 +69,11 @@ landscape:
         name: General
         items:
           - item:
-            name: Amazon Web Services, Inc.
-            description: >-
-              Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video
-              games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the
-              Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
+            name: Amazon
             homepage_url: https://amazon.com/
-            logo: amazon_web_services_inc.svg
-            twitter: https://twitter.com/amazon
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            extra:
-              linkedin_url: https://www.linkedin.com/company/amazon
+            logo: amazon.svg
+            organization:
+              name: Amazon
           - item:
             name: Ansys
             description: >-
