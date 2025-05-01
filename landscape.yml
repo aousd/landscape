@@ -471,6 +471,15 @@ landscape:
               name: Spatial
               linkedin: https://www.linkedin.com/company/spatialinc
           - item:
+            name: Tech Soft 3D Inc
+            description: Tech Soft 3D makes developer tools that you can rely on. Build for tomorrow, today.
+            homepage_url: https://techsoft3d.com/
+            logo: tech_soft_3d_inc.svg
+            twitter: https://twitter.com/TechSoft3D
+            crunchbase: https://www.crunchbase.com/organization/tech-soft-3d
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tech-soft-3d
+          - item:
             name: The Foundry Visionmongers Limited
             description: >-
               The Foundry Visionmongers was founded in 1996. The company offers VFX software, NUKE, compositing, MARI, texture painting, etc. It is
