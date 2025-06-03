@@ -387,6 +387,20 @@ landscape:
             organization:
               name: Pickford
           - item:
+            name: Renault
+            description: >-
+              The Renault group has been making cars since 1898. Today it is an international multi-brand group, selling more than 2.7 million vehicles in 125
+              countries in 2014, with 36 manufacturing sites. To meet the major technological challenges of the future and continue its strategy of profitable
+              growth, the Group is harnessing its international development and the complementary fit of its three brands, Renault, Dacia and Renault Samsung
+              Motors, together with electric vehicles, the Alliance with Nissan, and its partnerships with AVTOVAZ and Daimler. With 12 world championship
+              titles in Formula 1 and a participation in Formula E, Renault sees motorsport as a vector of innovation, image and awareness.
+            homepage_url: https://renault.com/
+            logo: renault.svg
+            twitter: https://twitter.com/renaultgroup
+            crunchbase: https://www.crunchbase.com/organization/renault-s-a
+            extra:
+              linkedin_url: https://www.linkedin.com/company/renault
+          - item:
             name: Rockwell Automation
             description: >-
               Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its
