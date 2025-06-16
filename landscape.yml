@@ -251,11 +251,8 @@ landscape:
               rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
             homepage_url: https://homestyler.com/
             logo: homestyler_shanghai_techonology_co.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/homestyler3d
             organization:
               name: Homestyler (Shanghai) Techonology Co., Ltd
-              linkedin: https://www.linkedin.com/company/homestyler3d
           - item:
             name: Hon Hai Precision Industry Co., Ltd.
             description: Hon Hai Precision Industry Co., Ltd.,
@@ -301,8 +298,6 @@ landscape:
             homepage_url: https://inter.ikea.com/
             logo: inter_ikea_systems_b_v.svg
             crunchbase: https://www.crunchbase.com/organization/ikea-systems
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ikea
           - item:
             name: Kondux
             description: >-
@@ -314,11 +309,8 @@ landscape:
               accessible to all across multiple tools, platforms, and industries.
             homepage_url: https://kondux.io/
             logo: kondux.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kondux-labs
             organization:
               name: Kondux
-              linkedin: https://www.linkedin.com/company/kondux-labs
           - item:
             name: Lowe's Companies, Inc.
             description: >-
@@ -462,7 +454,7 @@ landscape:
             twitter: https://twitter.com/SonyGroupGlobal
             crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
             extra:
-              linkedin_url: https://www.linkedin.com/company/sony/
+              linkedin_url: https://www.linkedin.com/company/sony-electronics
           - item:
             name: Spatial
             description: >-
