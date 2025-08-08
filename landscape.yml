@@ -7,47 +7,62 @@ landscape:
         items:
           - item:
             name: Adobe Inc.
+            description: >-
+              Founded in 1982, Adobe is an American multinational computer software company that engages in the provision of digital marketing and digital media
+              solutions. Adobe is headquartered in San Jose, California.
             homepage_url: https://adobe.com/
             logo: adobe_inc.svg
-            description: Founded in 1982, Adobe is an American multinational computer software company that engages in the provision of digital marketing and digital media solutions. Adobe is headquartered in San Jose, California.
-            crunchbase: https://www.crunchbase.com/organization/adobe-systems
             twitter: https://twitter.com/Adobe
+            crunchbase: https://www.crunchbase.com/organization/adobe-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/adobe
           - item:
             name: Apple Inc.
+            description: >-
+              Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s
+              with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife
+              and professional applications. Apple is also spearheading the digital media revolution with its iPod portable music and video players, iTunes
+              online store, and the mobile phone market with its revolutionary iPhone. Apple headquarters are located in Cupertino, California.
             homepage_url: https://apple.com/
             logo: apple_inc.svg
-            description: Founded in 1976, Apple ignited the personal computer revolution in the 1970s with the Apple II and reinvented the personal computer in the 1980s with the Macintosh. Today, Apple continues to lead the industry in innovation with its award-winning computers, OS X operating system and iLife and professional applications. Apple is also spearheading the digital media revolution with its iPod portable music and video players, iTunes online store, and the mobile phone market with its revolutionary iPhone. Apple headquarters are located in Cupertino, California.
-            crunchbase: https://www.crunchbase.com/organization/apple
             twitter: https://twitter.com/Apple
+            crunchbase: https://www.crunchbase.com/organization/apple
             extra:
               linkedin_url: https://www.linkedin.com/company/apple
           - item:
             name: Autodesk
+            description: >-
+              Founded in 1982, Autodesk is an American multinational corporation that focuses on 2D and 3D design software for use in architecture, engineering
+              and building construction, manufacturing, and media and entertainment. Autodesk helps people imagine, design and create a better world. Design
+              professionals, engineers, digital artists, and architects use Autodesk software. Autodesk has its global headquarters located in San Rafael,
+              California.
             homepage_url: https://autodesk.com/
             logo: autodesk.svg
-            description: Founded in 1982, Autodesk is an American multinational corporation that focuses on 2D and 3D design software for use in architecture, engineering and building construction, manufacturing, and media and entertainment. Autodesk helps people imagine, design and create a better world. Design professionals, engineers, digital artists, and architects use Autodesk software. Autodesk has its global headquarters located in San Rafael, California.
-            crunchbase: https://www.crunchbase.com/organization/autodesk
             twitter: https://twitter.com/autodesk
+            crunchbase: https://www.crunchbase.com/organization/autodesk
             extra:
               linkedin_url: https://www.linkedin.com/company/autodesk
           - item:
             name: NVIDIA Corporation
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
             homepage_url: https://nvidia.com/
             logo: nvidia_corporation.svg
-            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/nvidia
             twitter: https://twitter.com/nvidia
+            crunchbase: https://www.crunchbase.com/organization/nvidia
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
           - item:
             name: The Walt Disney Studios
+            description: >-
+              (Disney) - Disney Parks Talent Casting is the Entertainment Casting group within Walt Disney Parks & Resorts. Many are surprised to learn that
+              Disney is one of the largest live entertainment companies in the world. We produce thousands of special events around the world and entertain
+              millions of Guests every year in our Theme Parks & Resorts. With such a huge scope of entertainment, there are countless ways to share your talent
+              with our Disney Guests. From professional musical theater actors looking for their next adventure, to aspiring performers looking for a place to
+              hone their talent and learn the business. We have a spot for just about everyone.
             homepage_url: https://disney.com/
             logo: the_walt_disney_studios.svg
-            description: (Disney) - Disney Parks Talent Casting is the Entertainment Casting group within Walt Disney Parks & Resorts. Many are surprised to learn that Disney is one of the largest live entertainment companies in the world. We produce thousands of special events around the world and entertain millions of Guests every year in our Theme Parks & Resorts. With such a huge scope of entertainment, there are countless ways to share your talent with our Disney Guests. From professional musical theater actors looking for their next adventure, to aspiring performers looking for a place to hone their talent and learn the business. We have a spot for just about everyone.
-            crunchbase: https://www.crunchbase.com/organization/walt-disney-internet-group
             twitter: https://twitter.com/Disney
+            crunchbase: https://www.crunchbase.com/organization/walt-disney-internet-group
             extra:
               linkedin_url: https://www.linkedin.com/company/disney-consumer-products-india
       - subcategory:
@@ -61,150 +76,205 @@ landscape:
               name: Amazon
           - item:
             name: Ansys
+            description: >-
+              ANSYS, Inc. develops and markets engineering simulation software and services used by engineers, designers, researchers, and students across a
+              spectrum of industries and academia, including aerospace, automotive, materials and chemical processing, turbomachinery, consumer products,
+              electronics, biomedical, energy, defense, and others. The company focuses on the development of open and flexible solutions that enable users to
+              analyze designs directly on the desktop, providing a common platform for product development, from design concept to final-stage testing and
+              validation. The company distributes its ANSYS suite of simulation technologies through a global network of independent resellers and distributors
+              (collectively, channel partners) and direct sales offices in strategic, global locations. ANSYS Workbench is the framework upon which the
+              company's suite of advanced engineering simulation technologies is built. The project schematic view ties together the entire simulation process,
+              guiding the user through complex multiphysics analyses with drag-and-drop simplicity. Ansys, Inc. was founded in 1970 and the headquarters are
+              located in Canonsburg, PA.
             homepage_url: https://ansys.com/
             logo: ansys.svg
-            description: ANSYS, Inc. develops and markets engineering simulation software and services used by engineers, designers, researchers, and students across a spectrum of industries and academia, including aerospace, automotive, materials and chemical processing, turbomachinery, consumer products, electronics, biomedical, energy, defense, and others. The company focuses on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for product development, from design concept to final-stage testing and validation. The company distributes its ANSYS suite of simulation technologies through a global network of independent resellers and distributors (collectively, channel partners) and direct sales offices in strategic, global locations. ANSYS Workbench is the framework upon which the company's suite of advanced engineering simulation technologies is built. The project schematic view ties together the entire simulation process, guiding the user through complex multiphysics analyses with drag-and-drop simplicity. Ansys, Inc. was founded in 1970 and the headquarters are located in Canonsburg, PA.
-            crunchbase: https://www.crunchbase.com/organization/ansys
             twitter: https://twitter.com/ANSYS
+            crunchbase: https://www.crunchbase.com/organization/ansys
             extra:
               linkedin_url: https://www.linkedin.com/company/ansys-inc
           - item:
             name: Bentley Systems
-            homepage_url: https://bentley.com/
-            logo: bentley_systems.svg
-            description: |-
-              Bentley Systems, Inc. provides architects, engineers, constructors, and owner-operators with comprehensive software solutions for sustaining infrastructure. Bentley Systems is a privately owned company and is headquartered in Exton, PA.
+            description: >-
+              Bentley Systems, Inc. provides architects, engineers, constructors, and owner-operators with comprehensive software solutions for sustaining
+              infrastructure. Bentley Systems is a privately owned company and is headquartered in Exton, PA.
+
 
               --- Merged Data:
 
-              Bentley Systems, Incorporated, is an American-based software development company that develops, manufactures, licenses, sells and supports computer software and services for the design, construction, and operation of infrastructure.
-            crunchbase: https://www.crunchbase.com/organization/bentley-systems
+
+              Bentley Systems, Incorporated, is an American-based software development company that develops, manufactures, licenses, sells and supports
+              computer software and services for the design, construction, and operation of infrastructure.
+            homepage_url: https://bentley.com/
+            logo: bentley_systems.svg
             twitter: https://twitter.com/BentleySystems
+            crunchbase: https://www.crunchbase.com/organization/bentley-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/bentley-systems
           - item:
             name: Bright Machines, Inc.
+            description: >-
+              Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more
+              efficient approach to building.
             homepage_url: https://brightmachines.com/
             logo: bright_machines_inc.svg
-            description: Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more efficient approach to building.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bright-machines
             organization:
               name: Bright Machines, Inc.
               linkedin: https://www.linkedin.com/company/bright-machines
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bright-machines
           - item:
             name: Cadence Design Systems, Inc.
-            homepage_url: https://cadence.com/
-            logo: cadence_design_systems_inc.svg
-            description: |-
-              Cadence is a leading provider of EDA and semiconductor IP. Our custom/analog tools help engineers design the transistors, standard cells, and IP blocks that make up SoCs. Our digital tools automate the design and verification of giga-scale, giga-hertz SoCs at the latest semiconductor processing nodes. Our IC packaging and PCB tools permit the design of complete boards and subsystems. 
+            description: >-
+              Cadence is a leading provider of EDA and semiconductor IP. Our custom/analog tools help engineers design the transistors, standard cells, and IP
+              blocks that make up SoCs. Our digital tools automate the design and verification of giga-scale, giga-hertz SoCs at the latest semiconductor
+              processing nodes. Our IC packaging and PCB tools permit the design of complete boards and subsystems. 
 
 
 
-              Cadence also offers a growing portfolio of design IP and verification IP for memories, interface protocols, analog/mixed-signal components, and specialized processors. And reaching up to the systems level, Cadence offers an integrated suite of hardware/software co-development platforms. In short, Cadence��_��_ technology helps customers build great products that connect the world.
+
+              Cadence also offers a growing portfolio of design IP and verification IP for memories, interface protocols, analog/mixed-signal components, and
+              specialized processors. And reaching up to the systems level, Cadence offers an integrated suite of hardware/software co-development platforms. In
+              short, Cadence��_��_ technology helps customers build great products that connect the world.
+
 
               Specialties
+
 
               Electronic design automation (EDA) software, hardware, IP, and services
 
 
 
+
               Website
+
 
               http://www.cadence.com
 
+
               Industry
+
 
               Computer Software
 
+
               Type
+
 
               Public Company
 
+
               Headquarters
+
 
               2655 Seely Avenue San Jose, California 95134 United States
 
+
               Company Size
+
 
               5001-10,000 employees
 
+
               Founded
 
+
               1988
-            crunchbase: https://www.crunchbase.com/organization/cadence-design-systems
+            homepage_url: https://cadence.com/
+            logo: cadence_design_systems_inc.svg
             twitter: https://twitter.com/Cadence
+            crunchbase: https://www.crunchbase.com/organization/cadence-design-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/cadence-design-systems
           - item:
             name: Chaos Software LTD
+            description: >-
+              Chaos is a company that develops visualization technologies for artists and designers to create photorealistic imagery and animation across all
+              creative industries. Their flagship rendering software, V Ray, has set the standard for speed, quality, reli...
             homepage_url: https://chaos.com/
             logo: chaos_software_ltd.svg
-            description: Chaos is a company that develops visualization technologies for artists and designers to create photorealistic imagery and animation across all creative industries. Their flagship rendering software, V Ray, has set the standard for speed, quality, reli...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chaos-group
             organization:
               name: Chaos Software LTD
               linkedin: https://www.linkedin.com/company/chaos-group
-            extra:
-              linkedin_url: https://www.linkedin.com/company/chaos-group
           - item:
             name: Delta Electronics, INC. (incorporate)
+            description: >-
+              Delta Electronics is a global provider of power and thermal management solutions. Delta is also a provider of industrial automation, building
+              automation, and energy and ICT infrastructure. Delta products include fans, power systems, telecom systems, networking, industrial power, and
+              renewable energy solutions. Delta Electronics is headquartered in Taipei, Taiwan with operations around the world.
             homepage_url: https://deltaww.com/
             logo: delta_electronics_inc.svg
-            description: Delta Electronics is a global provider of power and thermal management solutions. Delta is also a provider of industrial automation, building automation, and energy and ICT infrastructure. Delta products include fans, power systems, telecom systems, networking, industrial power, and renewable energy solutions. Delta Electronics is headquartered in Taipei, Taiwan with operations around the world.
-            crunchbase: https://www.crunchbase.com/organization/delta-electronics-inc
             twitter: https://twitter.com/Delta_Americas
+            crunchbase: https://www.crunchbase.com/organization/delta-electronics-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/delta-electronics
           - item:
             name: DigitalFish Inc
+            description: >-
+              DigitalFish specializes in providing software solutions and support for digital storytellers, focusing on enhancing animation processes and
+              optimizing production pipelines for both 3D and 2D animation.
             homepage_url: https://digitalfish.com/
             logo: digitalfish_inc.svg
-            description: DigitalFish specializes in providing software solutions and support for digital storytellers, focusing on enhancing animation processes and optimizing production pipelines for both 3D and 2D animation.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/digitalfish-inc
             organization:
               name: DigitalFish Inc
               linkedin: https://www.linkedin.com/company/digitalfish-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digitalfish-inc
           - item:
             name: Environmental Systems Research Institute, Inc. (ESRI)
+            description: >-
+              Esri develops geographic information system (GIS) solutions that function as an integral component in nearly every type of organization. The
+              company's focus remains on producing excellent software and delivering exceptional service to users. Esri believes that better information makes
+              for better decisions. Its reputation is built on contributing technical knowledge, special people, and valuable experience to the collection,
+              analysis, and communication of geographic information. The software is used by more than 350,000 organizations worldwide including most U.S.
+              federal agencies and national mapping agencies, 45 of the top 50 petroleum companies, all 50 U.S. state health departments, most forestry
+              companies, more than 24,000 state and local governments, and many others in dozens of industries.
             homepage_url: https://esri.com/
             logo: environmental_systems_research_institute_inc.svg
-            description: Esri develops geographic information system (GIS) solutions that function as an integral component in nearly every type of organization. The company's focus remains on producing excellent software and delivering exceptional service to users. Esri believes that better information makes for better decisions. Its reputation is built on contributing technical knowledge, special people, and valuable experience to the collection, analysis, and communication of geographic information. The software is used by more than 350,000 organizations worldwide including most U.S. federal agencies and national mapping agencies, 45 of the top 50 petroleum companies, all 50 U.S. state health departments, most forestry companies, more than 24,000 state and local governments, and many others in dozens of industries.
-            crunchbase: https://www.crunchbase.com/organization/esri
             twitter: https://twitter.com/Esri
+            crunchbase: https://www.crunchbase.com/organization/esri
             extra:
               linkedin_url: https://www.linkedin.com/company/esri
           - item:
             name: Epic Games, Inc
+            description: >-
+              Epic Games has spent the past couple of decades building our own games and providing our game engine technology to other developers. We’ve created
+              the “Unreal” series of games, the “Gears of War” franchise and the “Infinity Blade” line of mobile games. We’re currently hard at work on our next
+              games, Fortnite and Paragon. Sign up for the betas at Fortnite.com and Paragon.com. Our Unreal Engine technology is available for free for
+              everyone at www.unrealengine.com. To learn more about our company, visit www.epicgames.com.
             homepage_url: https://epicgames.com/
             logo: epic_games_inc.svg
-            description: Epic Games has spent the past couple of decades building our own games and providing our game engine technology to other developers. We’ve created the “Unreal” series of games, the “Gears of War” franchise and the “Infinity Blade” line of mobile games. We’re currently hard at work on our next games, Fortnite and Paragon. Sign up for the betas at Fortnite.com and Paragon.com. Our Unreal Engine technology is available for free for everyone at www.unrealengine.com. To learn more about our company, visit www.epicgames.com.
-            crunchbase: https://www.crunchbase.com/organization/epic-games-2
             twitter: https://twitter.com/EpicGames
+            crunchbase: https://www.crunchbase.com/organization/epic-games-2
             extra:
               linkedin_url: https://www.linkedin.com/company/epic-games
           - item:
             name: Hexagon AB
+            description: >-
+              Hexagon is a global leader in digital reality solutions, providing information technologies that drive productivity across geospatial and
+              industrial enterprise applications for a range of industries.
             homepage_url: https://hexagon.com/
             logo: hexagon_ab.svg
-            description: Hexagon is a global leader in digital reality solutions, providing information technologies that drive productivity across geospatial and industrial enterprise applications for a range of industries.
             crunchbase: https://www.crunchbase.com/organization/hexagon
             extra:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
           - item:
             name: Homestyler (Shanghai) Techonology Co., Ltd
+            description: >-
+              Homestyler is a top-notch online home design platform that provides a free 3D home design software, floor planner, interior decoration 3D
+              rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
             homepage_url: https://homestyler.com/
             logo: homestyler_shanghai_techonology_co.svg
-            description: Homestyler is a top-notch online home design platform that provides a free 3D home design software, floor planner, interior decoration 3D rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
             organization:
               name: Homestyler (Shanghai) Techonology Co., Ltd
           - item:
             name: Hon Hai Precision Industry Co., Ltd.
+            description: Hon Hai Precision Industry Co., Ltd.,
             homepage_url: https://foxconn.com/
             logo: hon_hai_precision_industry_co_ltd.svg
-            description: Hon Hai Precision Industry Co., Ltd.,
-            crunchbase: https://www.crunchbase.com/organization/foxconn-technology-group
             twitter: https://twitter.com/FoxconnSlave
+            crunchbase: https://www.crunchbase.com/organization/foxconn-technology-group
             extra:
               linkedin_url: https://www.linkedin.com/company/hon-hai-precision
           - item:
@@ -215,83 +285,114 @@ landscape:
               name: Hunan Mango Innocreative Technology Co., Ltd
           - item:
             name: Intel Corporation
+            description: >-
+              Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers
+              microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical
+              disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based
+              sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It
+              serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial,
+              communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
-            crunchbase: https://www.crunchbase.com/organization/intel
             twitter: https://twitter.com/intel
+            crunchbase: https://www.crunchbase.com/organization/intel
             extra:
               linkedin_url: https://www.linkedin.com/company/intel-corporation
           - item:
             name: Inter IKEA Systems B.V.
-            homepage_url: https://inter.ikea.com/
-            logo: inter_ikea_systems_b_v.svg
-            description: |-
-              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
+            description: >-
+              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision
+              to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
+
 
               --- Merged Data:
 
-              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services.
+
+              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home
+              accessories, among other goods and home services.
+            homepage_url: https://inter.ikea.com/
+            logo: inter_ikea_systems_b_v.svg
             crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: intrinsic
+            description: >-
+              Intrinsic is developing an intelligent robotics platform aimed at simplifying the programming and utilization of robots, thereby enabling a
+              broader range of businesses, entrepreneurs, and developers to harness the benefits of automation.
             homepage_url: https://www.intrinsic.ai/
             logo: intrinsic.svg
-            description: Intrinsic is developing an intelligent robotics platform aimed at simplifying the programming and utilization of robots, thereby enabling a broader range of businesses, entrepreneurs, and developers to harness the benefits of automation.
             crunchbase: https://www.crunchbase.com/organization/intrinsic-97a0
           - item:
             name: Kondux
+            description: >-
+              Kondux is solving the fundamental problem of 3D asset security, open source interoperability, and ownership rights in an increasingly
+              digital-first creative economy.
+
+
+              Our platform is built on the idea that 3D assets, AI-driven tools, tokenization pipelines and immersive environments should be lightweight, and
+              accessible to all across multiple tools, platforms, and industries.
             homepage_url: https://kondux.io/
             logo: kondux.svg
-            description: |-
-              Kondux is solving the fundamental problem of 3D asset security, open source interoperability, and ownership rights in an increasingly digital-first creative economy.
-
-              Our platform is built on the idea that 3D assets, AI-driven tools, tokenization pipelines and immersive environments should be lightweight, and accessible to all across multiple tools, platforms, and industries.
             organization:
               name: Kondux
           - item:
             name: Lowe's Companies, Inc.
+            description: >-
+              Lowe's Companies is a chain of retail home improvement and appliance stores, with stores throughout North America. The company offers products and
+              services for home decorating, maintenance, repair, remodeling, and property maintenance. Lowe's Companies is headquartered in Mooresville, North
+              Carolina.
             homepage_url: https://lowes.com/
             logo: lowe_s_companies_inc.svg
-            description: Lowe's Companies is a chain of retail home improvement and appliance stores, with stores throughout North America. The company offers products and services for home decorating, maintenance, repair, remodeling, and property maintenance. Lowe's Companies is headquartered in Mooresville, North Carolina.
-            crunchbase: https://www.crunchbase.com/organization/lowes
             twitter: https://twitter.com/Lowes
+            crunchbase: https://www.crunchbase.com/organization/lowes
             extra:
               linkedin_url: https://www.linkedin.com/company/lowe-s-companies-canada
           - item:
             name: Maxon Computer GmbH
+            description: >-
+              Maxon makes powerful, yet approachable software solutions for content creators working in 2D and 3D design, motion graphics, visual effects and
+              visualization. Maxon's innovative product portfolio helps artists supercharge their creative workflows. Its product lines include the
+              award-winning Cinema 4D suite of 3D modeling, simulation and animation technology, the diverse Red Giant lineup of revolutionary editing, motion
+              design and filmmaking tools, the high-end production, blazingly fast Redshift rendering solutions and the intuitive forger mobile sculpting app.
+              Maxon's team is comprised of fun, passionate people who believe in building and empowering a successful artistic community. From its popular,
+              inclusive events to its free Cineversity educational resources, Maxon recognizes that developing strong connections with creatives and fostering
+              their professional growth is integral to Maxon's ability to stay on top of industry trends and better serve customers. Maxon is part of the
+              Nemetschek Group.
             homepage_url: https://maxon.net/
             logo: maxon_computer_gmbh.svg
-            description: Maxon makes powerful, yet approachable software solutions for content creators working in 2D and 3D design, motion graphics, visual effects and visualization. Maxon's innovative product portfolio helps artists supercharge their creative workflows. Its product lines include the award-winning Cinema 4D suite of 3D modeling, simulation and animation technology, the diverse Red Giant lineup of revolutionary editing, motion design and filmmaking tools, the high-end production, blazingly fast Redshift rendering solutions and the intuitive forger mobile sculpting app. Maxon's team is comprised of fun, passionate people who believe in building and empowering a successful artistic community. From its popular, inclusive events to its free Cineversity educational resources, Maxon recognizes that developing strong connections with creatives and fostering their professional growth is integral to Maxon's ability to stay on top of industry trends and better serve customers. Maxon is part of the Nemetschek Group.
-            crunchbase: https://www.crunchbase.com/organization/maxon-computer
             twitter: https://twitter.com/MaxonVFX
+            crunchbase: https://www.crunchbase.com/organization/maxon-computer
             extra:
               linkedin_url: https://www.linkedin.com/company/maxonvfx
           - item:
             name: Meta Platforms, Inc.
+            description: >-
+              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company
+              that provides various products to connect and share.
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
-            crunchbase: https://www.crunchbase.com/organization/facebook
             twitter: https://twitter.com/Meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
             extra:
               linkedin_url: https://www.linkedin.com/company/facebook
           - item:
             name: Microsoft Corporation
+            description: >-
+              The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
+              develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
+              include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            description: The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
-            crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
             name: OTOY, Inc.
+            description: High performance cloud streaming and rendering technologies are just the beginning of what OTOY offers the artist and entertainment industries.
             homepage_url: https://otoy.com/
             logo: otoy_inc.svg
-            description: High performance cloud streaming and rendering technologies are just the beginning of what OTOY offers the artist and entertainment industries.
-            crunchbase: https://www.crunchbase.com/organization/otoy
             twitter: https://twitter.com/OTOY
+            crunchbase: https://www.crunchbase.com/organization/otoy
             extra:
               linkedin_url: https://www.linkedin.com/company/otoy
           - item:
@@ -302,155 +403,214 @@ landscape:
               name: Pickford
           - item:
             name: PTC Inc.
-            homepage_url: https://ptc.com/
-            logo: ptc_inc.svg
-            description: |-
+            description: >-
               About us
-              PTC (NASDAQ: PTC) is a global provider of technology platforms and solutions that transform how companies create, operate, and service the "things"​ in the Internet of Things (IoT). The company's next-generation ThingWorx® technology platform gives developers the tools they need to capture, analyze, and capitalize on the vast amounts of data being generated by smart, connected products and systems. The company's field-proven solutions are deployed in more than 26,000 businesses worldwide to generate a product or service advantage. PTC's award-winning CEO, considered an industry thought leader, co-authored the definitive guides to the impact of the IoT on business in the Harvard Business Review.
+
+              PTC (NASDAQ: PTC) is a global provider of technology platforms and solutions that transform how companies create, operate, and service the
+              "things"​ in the Internet of Things (IoT). The company's next-generation ThingWorx® technology platform gives developers the tools they need to
+              capture, analyze, and capitalize on the vast amounts of data being generated by smart, connected products and systems. The company's field-proven
+              solutions are deployed in more than 26,000 businesses worldwide to generate a product or service advantage. PTC's award-winning CEO, considered an
+              industry thought leader, co-authored the definitive guides to the impact of the IoT on business in the Harvard Business Review.
                
-              All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status
+              All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender
+              identity, national origin, disability or protected veteran status
+
 
               Recent updateSee all See all recent updates
+
               Image accompanying recent update
+
               PTC Launches Cybersecurity Initiative
+
 
               ptc.com
 
+
               18 Likes
+
               Company details
+
               Website
+
               http://ptc.co/LqfS30dDmFc
+
               Headquarters
+
               Needham, Ma
 
+
               Year founded
+
               1985
 
+
               Company type
+
               Public Company
 
+
               Company size
+
               5,001-10,000 employees
+
               Specialties
-              Product Development Solutions, PLM - Product Lifecycle Management, Quality Management, Regulatory Compliance, CAD- Computer Aided Design, Internet of Things, Application Lifecycle Management, Service Lifecycle Management, Supply Chain Management, and Augmented Reality
-            crunchbase: https://www.crunchbase.com/organization/parametric-technology
+
+              Product Development Solutions, PLM - Product Lifecycle Management, Quality Management, Regulatory Compliance, CAD- Computer Aided Design, Internet
+              of Things, Application Lifecycle Management, Service Lifecycle Management, Supply Chain Management, and Augmented Reality
+            homepage_url: https://ptc.com/
+            logo: ptc_inc.svg
             twitter: https://twitter.com/PTC
+            crunchbase: https://www.crunchbase.com/organization/parametric-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/ptc
           - item:
             name: Renault
+            description: >-
+              The Renault group has been making cars since 1898. Today it is an international multi-brand group, selling more than 2.7 million vehicles in 125
+              countries in 2014, with 36 manufacturing sites. To meet the major technological challenges of the future and continue its strategy of profitable
+              growth, the Group is harnessing its international development and the complementary fit of its three brands, Renault, Dacia and Renault Samsung
+              Motors, together with electric vehicles, the Alliance with Nissan, and its partnerships with AVTOVAZ and Daimler. With 12 world championship
+              titles in Formula 1 and a participation in Formula E, Renault sees motorsport as a vector of innovation, image and awareness.
             homepage_url: https://renault.com/
             logo: renault.svg
-            description: The Renault group has been making cars since 1898. Today it is an international multi-brand group, selling more than 2.7 million vehicles in 125 countries in 2014, with 36 manufacturing sites. To meet the major technological challenges of the future and continue its strategy of profitable growth, the Group is harnessing its international development and the complementary fit of its three brands, Renault, Dacia and Renault Samsung Motors, together with electric vehicles, the Alliance with Nissan, and its partnerships with AVTOVAZ and Daimler. With 12 world championship titles in Formula 1 and a participation in Formula E, Renault sees motorsport as a vector of innovation, image and awareness.
-            crunchbase: https://www.crunchbase.com/organization/renault-s-a
             twitter: https://twitter.com/renaultgroup
+            crunchbase: https://www.crunchbase.com/organization/renault-s-a
             extra:
               linkedin_url: https://www.linkedin.com/company/renault
           - item:
             name: Rockwell Automation
+            description: >-
+              Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its
+              customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000
+              people serving customers in more than 80 countries.
             homepage_url: https://rockwellautomation.com/
             logo: rockwell_automation.svg
-            description: 'Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000 people serving customers in more than 80 countries.'
-            crunchbase: https://www.crunchbase.com/organization/rockwell-automation
             twitter: https://twitter.com/ROKAutomation
+            crunchbase: https://www.crunchbase.com/organization/rockwell-automation
             extra:
               linkedin_url: https://www.linkedin.com/company/rockwell-automation
           - item:
             name: Shutterstock, Inc.
+            description: >-
+              Shutterstock is a global creative platform offering full service solutions, high quality content, and tools for brands, businesses and media
+              companies. They provide licensed photographs, vectors, illustrations, videos, 3D models and music to businesses...
             homepage_url: https://shutterstock.com/
             logo: shutterstock_inc.svg
-            description: Shutterstock is a global creative platform offering full service solutions, high quality content, and tools for brands, businesses and media companies. They provide licensed photographs, vectors, illustrations, videos, 3D models and music to businesses...
             crunchbase: https://www.crunchbase.com/organization/shutterstock
             extra:
               linkedin_url: https://www.linkedin.com/company/shutterstock
           - item:
             name: SideFX
+            description: >-
+              Houdini is a 3D procedural software for modeling, rigging, animation, VFX, look development, lighting and rendering in film, TV, advertising and
+              video game pipelines.
             homepage_url: https://sidefx.com/
             logo: sidefx.svg
-            description: Houdini is a 3D procedural software for modeling, rigging, animation, VFX, look development, lighting and rendering in film, TV, advertising and video game pipelines.
-            crunchbase: https://www.crunchbase.com/organization/sidefx
             twitter: https://twitter.com/sidefx
+            crunchbase: https://www.crunchbase.com/organization/sidefx
             extra:
               linkedin_url: https://www.linkedin.com/company/side-effects-software
           - item:
             name: Siemens AG
+            description: >-
+              Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of
+              energy-efficient, resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power
+              generation. Siemens is a provider of power transmission and infrastructure solutions as well as automation, drive and software solutions. The
+              company also provides medical imaging equipment such as computed tomography and magnetic resonance imaging systems. Siemens is headquartered in
+              Munich, Germany.
             homepage_url: https://siemens.com/
             logo: siemens_ag.svg
-            description: Founded in 1847, Siemens is a global technology company focusing on electrification, automation, and digitalization. Siemens is a producer of energy-efficient, resource-saving technologies, creating offshore wind turbine construction, and is a supplier of gas and steam turbines for power generation. Siemens is a provider of power transmission and infrastructure solutions as well as automation, drive and software solutions. The company also provides medical imaging equipment such as computed tomography and magnetic resonance imaging systems. Siemens is headquartered in Munich, Germany.
-            crunchbase: https://www.crunchbase.com/organization/siemens
             twitter: https://twitter.com/Siemens
+            crunchbase: https://www.crunchbase.com/organization/siemens
             extra:
               linkedin_url: https://www.linkedin.com/company/siemens
           - item:
             name: Sony Group Corporation
+            description: >-
+              SONY CORPORATION is engaged in the operation of imaging products and solution (IP&S), game, mobile products and communication (MP&C), home
+              entertainment and sound (HE&S), device, movie, music, financial and other business. IP&S segment provides digital imaging products and
+              professional solutions. Game segment produces and distributes consumer game machines and software. MP&C segment operates mobile communication and
+              personal mobile product business. HE&S segment operates television business, video and audio business. Device segment operates semiconductor
+              business and component business. Movie segment engages in movie production, television program production, media network business. Music segment
+              produces and distributes music software and animation products. Finance segment operates insurance and banking business. As of March 31, 2014, the
+              Company had 1337 subsidiaries and 115 associated companies.
             homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
-            description: SONY CORPORATION is engaged in the operation of imaging products and solution (IP&S), game, mobile products and communication (MP&C), home entertainment and sound (HE&S), device, movie, music, financial and other business. IP&S segment provides digital imaging products and professional solutions. Game segment produces and distributes consumer game machines and software. MP&C segment operates mobile communication and personal mobile product business. HE&S segment operates television business, video and audio business. Device segment operates semiconductor business and component business. Movie segment engages in movie production, television program production, media network business. Music segment produces and distributes music software and animation products. Finance segment operates insurance and banking business. As of March 31, 2014, the Company had 1337 subsidiaries and 115 associated companies.
-            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
             twitter: https://twitter.com/SonyGroupGlobal
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
             extra:
               linkedin_url: https://www.linkedin.com/company/sony-electronics
           - item:
             name: Spatial
+            description: >-
+              Spatial is a company that specializes in immersive audio experiences that enhance the wellbeing and performance of people in physical spaces.
+              Their powerful 3D and real-time audio tools unlock the potential of immersive audio to enhance human experienc...
             homepage_url: https://spatialinc.com/
             logo: spatial.svg
-            description: Spatial is a company that specializes in immersive audio experiences that enhance the wellbeing and performance of people in physical spaces. Their powerful 3D and real-time audio tools unlock the potential of immersive audio to enhance human experienc...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/spatialinc
             organization:
               name: Spatial
               linkedin: https://www.linkedin.com/company/spatialinc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/spatialinc
           - item:
             name: Tech Soft 3D Inc
+            description: Tech Soft 3D makes developer tools that you can rely on. Build for tomorrow, today.
             homepage_url: https://techsoft3d.com/
             logo: tech_soft_3d_inc.svg
-            description: Tech Soft 3D makes developer tools that you can rely on. Build for tomorrow, today.
-            crunchbase: https://www.crunchbase.com/organization/tech-soft-3d
             twitter: https://twitter.com/TechSoft3D
+            crunchbase: https://www.crunchbase.com/organization/tech-soft-3d
             extra:
               linkedin_url: https://www.linkedin.com/company/tech-soft-3d
           - item:
             name: The Coca-Cola Company
+            description: >-
+              The Coca-Cola Company is the world's largest beverage company, refreshing consumers with over 500 brands in 200 countries. Committed to
+              sustainability and community development, we lead in both sparkling and still beverages.
             homepage_url: https://coca-colacompany.com/
             logo: the_coca_cola_company.svg
-            description: The Coca-Cola Company is the world's largest beverage company, refreshing consumers with over 500 brands in 200 countries. Committed to sustainability and community development, we lead in both sparkling and still beverages.
             organization:
               name: The Coca-Cola Company
           - item:
             name: The Foundry Visionmongers Limited
+            description: >-
+              The Foundry Visionmongers was founded in 1996. The company offers VFX software, NUKE, compositing, MARI, texture painting, etc. It is
+              headquartered in United Kingdom.
             homepage_url: https://foundry.com/
             logo: the_foundry_visionmongers_limited.svg
-            description: The Foundry Visionmongers was founded in 1996. The company offers VFX software, NUKE, compositing, MARI, texture painting, etc. It is headquartered in United Kingdom.
-            crunchbase: https://www.crunchbase.com/organization/foundry
             twitter: https://twitter.com/TheFoundryTeam
+            crunchbase: https://www.crunchbase.com/organization/foundry
             extra:
               linkedin_url: https://www.linkedin.com/company/foundryteam
           - item:
             name: Trimble Inc.
+            description: Trimble Inc. is a Sunnyvale, California-based software as a service technology company.
             homepage_url: https://trimble.com/
             logo: trimble_inc.svg
-            description: Trimble Inc. is a Sunnyvale, California-based software as a service technology company.
-            crunchbase: https://www.crunchbase.com/organization/trimble
             twitter: https://twitter.com/TrimbleCorpNews
+            crunchbase: https://www.crunchbase.com/organization/trimble
             extra:
               linkedin_url: https://www.linkedin.com/company/trimble
           - item:
             name: Worley Limited
+            description: >-
+              Worley provides professional services in the energy, chemicals, and resources sectors, focusing on helping clients transition towards more
+              sustainable operations through project and asset management solutions.
             homepage_url: https://worley.com/
             logo: worley_limited.svg
-            description: Worley provides professional services in the energy, chemicals, and resources sectors, focusing on helping clients transition towards more sustainable operations through project and asset management solutions.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/worley
             organization:
               name: Worley Limited
               linkedin: https://www.linkedin.com/company/worley
-            extra:
-              linkedin_url: https://www.linkedin.com/company/worley
           - item:
             name: WPP plc
+            description: >-
+              WPP is a world leader in marketing communications services, offering a wide range of solutions in Advertising, Media Investment Management, Data
+              Investment Management, Public Relations & Public Affairs, Branding & Identity, Healthcare Communications, D...
             homepage_url: https://wpp.com/
             logo: wpp_plc.svg
-            description: WPP is a world leader in marketing communications services, offering a wide range of solutions in Advertising, Media Investment Management, Data Investment Management, Public Relations & Public Affairs, Branding & Identity, Healthcare Communications, D...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wpp
             organization:
               name: WPP plc
               linkedin: https://www.linkedin.com/company/wpp
-            extra:
-              linkedin_url: https://www.linkedin.com/company/wpp
