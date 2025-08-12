@@ -69,6 +69,18 @@ landscape:
         name: General
         items:
           - item:
+            name: Accenture Global Solutions Limited
+            description: >-
+              Founded in 1989 and headquartered in Dublin, Ireland, Accenture is a company that provides services and solutions in strategy, consulting,
+              digital, technology, and operations. The company serves customers in industries including communications, media and technology, financial
+              services, health and public service, as well as products and resources.
+            homepage_url: https://accenture.com/
+            logo: accenture_global_solutions_limited.svg
+            twitter: https://twitter.com/Accenture
+            crunchbase: https://www.crunchbase.com/organization/accenture
+            extra:
+              linkedin_url: https://www.linkedin.com/company/accenture
+          - item:
             name: Amazon
             homepage_url: https://amazon.com/
             logo: amazon.svg
@@ -249,6 +261,17 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/epic-games-2
             extra:
               linkedin_url: https://www.linkedin.com/company/epic-games
+          - item:
+            name: HCL Technologies Ltd.
+            description: >-
+              HCL Technologies is an Indian multinational information technology services & consulting company that offers services in IT and business services,
+              engineering and R&D services, and products and platforms.
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            twitter: https://twitter.com/hcltech
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hcl-technologies
           - item:
             name: Hexagon AB
             description: >-
