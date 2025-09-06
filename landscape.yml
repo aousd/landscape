@@ -358,6 +358,12 @@ landscape:
             organization:
               name: Kondux
           - item:
+            name: Lightwheel Limited
+            homepage_url: https://lightwheel.ai/
+            logo: lightwheel_limited.svg
+            organization:
+              name: Lightwheel Limited
+          - item:
             name: Lowe's Companies, Inc.
             description: >-
               Lowe's Companies is a chain of retail home improvement and appliance stores, with stores throughout North America. The company offers products and
