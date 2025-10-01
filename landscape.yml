@@ -301,12 +301,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hon-hai-precision
           - item:
-            name: Hunan Mango Innocreative Technology Co., Ltd
-            homepage_url: https://cloud.mg.xyz/
-            logo: hunan_mango_innocreative_technology_co.svg
-            organization:
-              name: Hunan Mango Innocreative Technology Co., Ltd
-          - item:
             name: Intel Corporation
             description: >-
               Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers
@@ -518,6 +512,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/rockwell-automation
             extra:
               linkedin_url: https://www.linkedin.com/company/rockwell-automation
+          - item:
+            name: SGDL Innovation SA
+            description: >-
+              SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling
+              and simulation that integrate both modern and traditional technologies.
+            homepage_url: https://sgdl.com/
+            logo: sgdl_innovation_sa.svg
+            organization:
+              name: SGDL Innovation SA
           - item:
             name: Shutterstock, Inc.
             description: >-
