@@ -123,6 +123,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bentley-systems
           - item:
+            name: Booz Allen Hamilton, Inc.
+            description: >-
+              Booz Allen Hamilton is a management and technology consulting firm, providing services to the United States government and commercial sectors. The
+              firm provides a wide range of management consulting and technology integration services including information technology, operations, organization
+              and change, program management, strategy, training programs and systems engineering.
+            homepage_url: https://boozallen.com/
+            logo: booz_allen_hamilton_inc.svg
+            twitter: https://twitter.com/BoozAllen
+            crunchbase: https://www.crunchbase.com/organization/booz-allen-hamilton
+            extra:
+              linkedin_url: https://www.linkedin.com/company/booz-allen-hamilton
+          - item:
             name: Bright Machines, Inc.
             description: >-
               Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more
@@ -486,6 +498,25 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/parametric-technology
             extra:
               linkedin_url: https://www.linkedin.com/company/ptc
+          - item:
+            name: Qualcomm, Inc.
+            description: >-
+              Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications
+              equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system
+              software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
+
+
+              --- Merged Data:
+
+
+              Qualcomm is a semiconductor company that manufactures and markets digital wireless telecommunications products and services. They are engaged in
+              the development and commercialization of a digital communication technology called code division multiple a...
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            twitter: https://twitter.com/Qualcomm
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
             name: Renault
             description: >-
