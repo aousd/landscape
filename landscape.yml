@@ -422,6 +422,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/microsoft
           - item:
+            name: MOBILTECH
+            description: >-
+              모빌테크 specializes in providing high-precision 3D mapping and location services for autonomous driving, smart cities, and digital twins, utilizing
+              advanced technologies such as LiDAR and multi-sensor synchronization to deliver innovative solutions for va...
+            homepage_url: https://mobiltech.io/
+            logo: mobiltech.svg
+            organization:
+              name: MOBILTECH
+          - item:
             name: OTOY, Inc.
             description: High performance cloud streaming and rendering technologies are just the beginning of what OTOY offers the artist and entertainment industries.
             homepage_url: https://otoy.com/
