@@ -553,6 +553,21 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/rockwell-automation
           - item:
+            name: Schneider Electric
+            description: >-
+              Founded in 1836 as a global specialist in energy management with operations in more than 100 countries, Schneider Electric offers integrated
+              solutions to make energy safe, reliable, efficient, productive and green across multiple market segments. The Group has leadership positions in
+              energy and infrastructure, industrial processes, building automation, and data centers/networks, as well as a broad presence in residential
+              applications.
+            homepage_url: https://se.com/
+            logo: schneider_electric.svg
+            twitter: https://twitter.com/SchneiderElec
+            extra:
+              linkedin_url: https://www.linkedin.com/company/invensys
+            organization:
+              name: Schneider Electric
+              linkedin: https://www.linkedin.com/company/invensys
+          - item:
             name: SGDL Innovation SA
             description: >-
               SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling
