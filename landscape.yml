@@ -104,10 +104,11 @@ landscape:
             name: Bright Machines, Inc.
             homepage_url: https://brightmachines.com/
             logo: bright_machines_inc.svg
-            description: Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more efficient approach to building.
-            organization:
-              name: Bright Machines, Inc.
-              linkedin: https://www.linkedin.com/company/bright-machines
+            description: |-
+              Bright Machines is a next-generation, AI-enabled manufacturer focused on data center infrastructure (i.e. AI servers and racks). From product design to its automated assembly and testing, Bright Machines leverages its proprietary AI-based software and robotics to build the most advanced AI infrastructure hardware for hyperscalers and leading Original Equipment Manufacturers (OEMs).
+
+              In collaboration with NVIDIA, Bright Machines integrates OpenUSD (Universal Scene Description) into its Bright Designer DFAA (Design for Automated Assembly) application, enabling digital twins and virtual simulations that improve product design, enhance quality, and optimize manufacturability.
+            crunchbase: https://www.crunchbase.com/organization/bright-machines
             extra:
               linkedin_url: https://www.linkedin.com/company/bright-machines
           - item:
