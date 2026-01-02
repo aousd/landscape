@@ -423,14 +423,6 @@ landscape:
             organization:
               name: SGDL Innovation SA
           - item:
-            name: Shutterstock, Inc.
-            homepage_url: https://shutterstock.com/
-            logo: shutterstock_inc.svg
-            description: Shutterstock is a global creative platform offering full service solutions, high quality content, and tools for brands, businesses and media companies. They provide licensed photographs, vectors, illustrations, videos, 3D models and music to businesses...
-            crunchbase: https://www.crunchbase.com/organization/shutterstock
-            extra:
-              linkedin_url: https://www.linkedin.com/company/shutterstock
-          - item:
             name: SideFX
             homepage_url: https://sidefx.com/
             logo: sidefx.svg
@@ -501,16 +493,6 @@ landscape:
             twitter: https://twitter.com/TrimbleCorpNews
             extra:
               linkedin_url: https://www.linkedin.com/company/trimble
-          - item:
-            name: Worley Limited
-            homepage_url: https://worley.com/
-            logo: worley_limited.svg
-            description: Worley provides professional services in the energy, chemicals, and resources sectors, focusing on helping clients transition towards more sustainable operations through project and asset management solutions.
-            organization:
-              name: Worley Limited
-              linkedin: https://www.linkedin.com/company/worley
-            extra:
-              linkedin_url: https://www.linkedin.com/company/worley
           - item:
             name: WPP plc
             homepage_url: https://wpp.com/
