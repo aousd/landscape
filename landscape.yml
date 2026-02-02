@@ -166,6 +166,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/chaos-group
           - item:
+            name: C-Infinity
+            homepage_url: https://autoassembler.com/
+            logo: c_infinity.svg
+            organization:
+              name: C-Infinity
+          - item:
             name: Delta Electronics, INC. (incorporate)
             homepage_url: https://deltaww.com/
             logo: delta_electronics_inc.svg
