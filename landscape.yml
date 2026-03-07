@@ -78,6 +78,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ansys-inc
           - item:
+            name: Aras Corporation
+            homepage_url: https://aras.com/
+            logo: aras_corporation.svg
+            description: Aras is an innovative product lifecycle management (PLM) software company that offers the only enterprise open source PLM solution available today. Aras provides full featured, advanced PLM functionality out of the box with no PLM license fees. Aras In...
+            organization:
+              name: Aras Corporation
+          - item:
             name: Bentley Systems
             homepage_url: https://bentley.com/
             logo: bentley_systems.svg
