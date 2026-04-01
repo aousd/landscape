@@ -63,6 +63,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/accenture
           - item:
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            description: For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are focused on building great products that push the boundaries of what is possible.
+            crunchbase: https://www.crunchbase.com/organization/amd
+            twitter: https://twitter.com/AMD
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
+          - item:
             name: Amazon
             homepage_url: https://amazon.com/
             logo: amazon.svg
@@ -324,6 +333,13 @@ landscape:
             organization:
               name: MOBILTECH
           - item:
+            name: Nfinite
+            homepage_url: https://nfinite.ai/
+            logo: nfinite.svg
+            description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
+            organization:
+              name: Nfinite
+          - item:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
             logo: otoy_inc.svg
@@ -506,3 +522,10 @@ landscape:
               linkedin: https://www.linkedin.com/company/wpp
             extra:
               linkedin_url: https://www.linkedin.com/company/wpp
+          - item:
+            name: XGRIDS
+            homepage_url: https://xgrids.com/
+            logo: xgrids.svg
+            description: XGRIDS is a company that specializes in innovative solutions for indoor mapping and reconstruction. They offer the Lixel L1 handheld laser scanner for real-time 3D reconstruction, as well as services for indoor scanning, SLAM, and high-precision 3D mod...
+            organization:
+              name: XGRIDS
