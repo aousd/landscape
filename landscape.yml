@@ -242,13 +242,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
           - item:
-            name: Homestyler (Shanghai) Techonology Co., Ltd
-            homepage_url: https://homestyler.com/
-            logo: homestyler_shanghai_techonology_co.svg
-            description: Homestyler is a top-notch online home design platform that provides a free 3D home design software, floor planner, interior decoration 3D rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
-            organization:
-              name: Homestyler (Shanghai) Techonology Co., Ltd
-          - item:
             name: Hon Hai Precision Industry Co., Ltd.
             homepage_url: https://foxconn.com/
             logo: hon_hai_precision_industry_co_ltd.svg
@@ -434,6 +427,13 @@ landscape:
               linkedin: https://www.linkedin.com/company/invensys
             extra:
               linkedin_url: https://www.linkedin.com/company/invensys
+          - item:
+            name: SGDL Innovation SA
+            homepage_url: https://sgdl.ai/
+            logo: sgdl_innovation_sa.svg
+            description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies.
+            organization:
+              name: SGDL Innovation SA
           - item:
             name: SideFX
             homepage_url: https://sidefx.com/
