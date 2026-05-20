@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-request: write
+      pull-requests: write
     steps:
       - uses: jmertic/lfx-landscape-tools@c17f36faab366e19935ecb8163b402913d5bc7b1 # 20260518
         with:
