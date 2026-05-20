@@ -75,24 +75,11 @@ landscape:
             name: Amazon
             homepage_url: https://amazon.com/
             logo: amazon.svg
-            organization:
-              name: Amazon
-          - item:
-            name: Ansys
-            homepage_url: https://ansys.com/
-            logo: ansys.svg
-            description: ANSYS, Inc. develops and markets engineering simulation software and services used by engineers, designers, researchers, and students across a spectrum of industries and academia, including aerospace, automotive, materials and chemical processing, turbomachinery, consumer products, electronics, biomedical, energy, defense, and others. The company focuses on the development of open and flexible solutions that enable users to analyze designs directly on the desktop, providing a common platform for product development, from design concept to final-stage testing and validation. The company distributes its ANSYS suite of simulation technologies through a global network of independent resellers and distributors (collectively, channel partners) and direct sales offices in strategic, global locations. ANSYS Workbench is the framework upon which the company's suite of advanced engineering simulation technologies is built. The project schematic view ties together the entire simulation process, guiding the user through complex multiphysics analyses with drag-and-drop simplicity. Ansys, Inc. was founded in 1970 and the headquarters are located in Canonsburg, PA.
-            crunchbase: https://www.crunchbase.com/organization/ansys
-            twitter: https://twitter.com/ANSYS
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ansys-inc
           - item:
             name: Aras Corporation
             homepage_url: https://aras.com/
             logo: aras_corporation.svg
             description: Aras is an innovative product lifecycle management (PLM) software company that offers the only enterprise open source PLM solution available today. Aras provides full featured, advanced PLM functionality out of the box with no PLM license fees. Aras In...
-            organization:
-              name: Aras Corporation
           - item:
             name: Bentley Systems
             homepage_url: https://bentley.com/
@@ -176,17 +163,12 @@ landscape:
             homepage_url: https://chaos.com/
             logo: chaos_software_ltd.svg
             description: Chaos is a company that develops visualization technologies for artists and designers to create photorealistic imagery and animation across all creative industries. Their flagship rendering software, V Ray, has set the standard for speed, quality, reli...
-            organization:
-              name: Chaos Software LTD
-              linkedin: https://www.linkedin.com/company/chaos-group
             extra:
               linkedin_url: https://www.linkedin.com/company/chaos-group
           - item:
             name: C-Infinity
             homepage_url: https://autoassembler.com/
             logo: c_infinity.svg
-            organization:
-              name: C-Infinity
           - item:
             name: Delta Electronics, INC. (incorporate)
             homepage_url: https://deltaww.com/
@@ -201,9 +183,6 @@ landscape:
             homepage_url: https://digitalfish.com/
             logo: digitalfish_inc.svg
             description: DigitalFish specializes in providing software solutions and support for digital storytellers, focusing on enhancing animation processes and optimizing production pipelines for both 3D and 2D animation.
-            organization:
-              name: DigitalFish Inc
-              linkedin: https://www.linkedin.com/company/digitalfish-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalfish-inc
           - item:
@@ -280,8 +259,6 @@ landscape:
             name: Lightwheel Limited
             homepage_url: https://lightwheel.ai/
             logo: lightwheel_limited.svg
-            organization:
-              name: Lightwheel Limited
           - item:
             name: Lowe's Companies, Inc.
             homepage_url: https://lowes.com/
@@ -323,15 +300,11 @@ landscape:
             homepage_url: https://mobiltech.io/
             logo: mobiltech.svg
             description: 모빌테크 specializes in providing high-precision 3D mapping and location services for autonomous driving, smart cities, and digital twins, utilizing advanced technologies such as LiDAR and multi-sensor synchronization to deliver innovative solutions for va...
-            organization:
-              name: MOBILTECH
           - item:
             name: Nfinite
             homepage_url: https://nfinite.ai/
             logo: nfinite.svg
             description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
-            organization:
-              name: Nfinite
           - item:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
@@ -345,8 +318,6 @@ landscape:
             name: Pickford
             homepage_url: https://pickford.ai/
             logo: pickford.svg
-            organization:
-              name: Pickford
           - item:
             name: PTC Inc.
             homepage_url: https://ptc.com/
@@ -422,9 +393,6 @@ landscape:
             logo: schneider_electric.svg
             description: Founded in 1836 as a global specialist in energy management with operations in more than 100 countries, Schneider Electric offers integrated solutions to make energy safe, reliable, efficient, productive and green across multiple market segments. The Group has leadership positions in energy and infrastructure, industrial processes, building automation, and data centers/networks, as well as a broad presence in residential applications.
             twitter: https://twitter.com/SchneiderElec
-            organization:
-              name: Schneider Electric
-              linkedin: https://www.linkedin.com/company/invensys
             extra:
               linkedin_url: https://www.linkedin.com/company/invensys
           - item:
@@ -432,8 +400,6 @@ landscape:
             homepage_url: https://sgdl.ai/
             logo: sgdl_innovation_sa.svg
             description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies.
-            organization:
-              name: SGDL Innovation SA
           - item:
             name: SideFX
             homepage_url: https://sidefx.com/
@@ -466,11 +432,17 @@ landscape:
             homepage_url: https://spatialinc.com/
             logo: spatial.svg
             description: Spatial is a company that specializes in immersive audio experiences that enhance the wellbeing and performance of people in physical spaces. Their powerful 3D and real-time audio tools unlock the potential of immersive audio to enhance human experienc...
-            organization:
-              name: Spatial
-              linkedin: https://www.linkedin.com/company/spatialinc
             extra:
               linkedin_url: https://www.linkedin.com/company/spatialinc
+          - item:
+            name: Synopsys, Inc
+            homepage_url: https://synopsys.com/
+            logo: synopsys_inc.svg
+            description: Synopsys, Inc. is the Silicon to Software partner for innovative companies developing the electronic products and software applications they rely on every day. As the world's 15th largest software company, Synopsys has a long history of being a global leader in electronic design automation (EDA) and semiconductor IP and is also growing its leadership in software security and quality solutions. Whether you're a system-on-chip (SoC) designer creating advanced semiconductors or a software developer writing applications that require the highest security and quality, Synopsys has the solutions needed to deliver innovative, high-quality, secure products.
+            crunchbase: https://www.crunchbase.com/organization/synopsys
+            twitter: https://twitter.com/Synopsys
+            extra:
+              linkedin_url: https://www.linkedin.com/company/synopsys
           - item:
             name: Tech Soft 3D Inc
             homepage_url: https://techsoft3d.com/
@@ -485,8 +457,6 @@ landscape:
             homepage_url: https://coca-colacompany.com/
             logo: the_coca_cola_company.svg
             description: The Coca-Cola Company is the world's largest beverage company, refreshing consumers with over 500 brands in 200 countries. Committed to sustainability and community development, we lead in both sparkling and still beverages.
-            organization:
-              name: The Coca-Cola Company
           - item:
             name: The Foundry Visionmongers Limited
             homepage_url: https://foundry.com/
@@ -510,9 +480,6 @@ landscape:
             homepage_url: https://wpp.com/
             logo: wpp_plc.svg
             description: WPP is a world leader in marketing communications services, offering a wide range of solutions in Advertising, Media Investment Management, Data Investment Management, Public Relations & Public Affairs, Branding & Identity, Healthcare Communications, D...
-            organization:
-              name: WPP plc
-              linkedin: https://www.linkedin.com/company/wpp
             extra:
               linkedin_url: https://www.linkedin.com/company/wpp
           - item:
@@ -520,5 +487,3 @@ landscape:
             homepage_url: https://xgrids.com/
             logo: xgrids.svg
             description: XGRIDS is a company that specializes in innovative solutions for indoor mapping and reconstruction. They offer the Lixel L1 handheld laser scanner for real-time 3D reconstruction, as well as services for indoor scanning, SLAM, and high-precision 3D mod...
-            organization:
-              name: XGRIDS
