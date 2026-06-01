@@ -115,6 +115,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bright-machines
           - item:
+            name: Bytedance Inc.
+            homepage_url: https://bytedance.com/
+            logo: bytedance_inc.svg
+            description: ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages, cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
+          - item:
             name: Cadence Design Systems, Inc.
             homepage_url: https://cadence.com/
             logo: cadence_design_systems_inc.svg
