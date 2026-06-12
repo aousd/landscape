@@ -235,6 +235,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hon-hai-precision
           - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co.svg
+            description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
+            crunchbase: https://www.crunchbase.com/organization/huawei
+            twitter: https://twitter.com/Huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
+          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -306,11 +315,6 @@ landscape:
             logo: mobiltech.svg
             description: 모빌테크 specializes in providing high-precision 3D mapping and location services for autonomous driving, smart cities, and digital twins, utilizing advanced technologies such as LiDAR and multi-sensor synchronization to deliver innovative solutions for va...
           - item:
-            name: Nfinite
-            homepage_url: https://nfinite.ai/
-            logo: nfinite.svg
-            description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
-          - item:
             name: OTOY, Inc.
             homepage_url: https://otoy.com/
             logo: otoy_inc.svg
@@ -319,6 +323,11 @@ landscape:
             twitter: https://twitter.com/OTOY
             extra:
               linkedin_url: https://www.linkedin.com/company/otoy
+          - item:
+            name: PHYSICL
+            homepage_url: https://physicl.ai/
+            logo: physicl.svg
+            description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
           - item:
             name: Pickford
             homepage_url: https://pickford.ai/
