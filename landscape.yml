@@ -332,11 +332,9 @@ landscape:
             name: PHYSICL
             homepage_url: https://physicl.ai/
             logo: physicl.svg
-            description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
-          - item:
-            name: Pickford
-            homepage_url: https://pickford.ai/
-            logo: pickford.svg
+            description: |-
+              We are 30 people focused entirely on one problem.
+              Building the data infrastructure for Physical AI — 3D production, simulation, physics, and ML, all under one roof.
           - item:
             name: PTC Inc.
             homepage_url: https://ptc.com/
