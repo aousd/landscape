@@ -465,6 +465,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/trimble
           - item:
+            name: Unity Technologies SF
+            homepage_url: https://unity.com/
+            logo: unity_technologies_sf.svg
+            description: Unity Technologies, Inc. designs and develops games and applications. The company develops a platform for creating games and interactive 2D, 3D, VR, and AR experiences. It also offers solutions in the areas of ads, analytics, collaboration, cloud builds, multiplayer's, and performance reporting; and solutions and services for creating games, improving productivity. The company also helps users in connecting to their audiences on PCs, consoles, the web, mobile devices, home entertainment systems, embedded systems, and head-mounted displays. It serves developers, including large publishers, indie studios, students, and hobbyists worldwide. Unity Technologies, Inc. was founded in 2004 and is based in San Francisco, California.
+            crunchbase: https://www.crunchbase.com/organization/unity-technologies
+            twitter: https://twitter.com/unity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/unity
+          - item:
             name: WPP plc
             homepage_url: https://wpp.com/
             logo: wpp_plc.svg
