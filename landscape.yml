@@ -249,6 +249,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
+            name: IKEA of Sweden AB
+            homepage_url: https://inter.ikea.com/
+            logo: ikea_of_sweden_ab.svg
+            description: |-
+              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
+
+              --- Merged Data:
+
+              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services.
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
+          - item:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -257,17 +268,6 @@ landscape:
             twitter: https://twitter.com/intel
             extra:
               linkedin_url: https://www.linkedin.com/company/intel-corporation
-          - item:
-            name: Inter IKEA Systems B.V.
-            homepage_url: https://inter.ikea.com/
-            logo: inter_ikea_systems_b_v.svg
-            description: |-
-              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
-
-              --- Merged Data:
-
-              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services.
-            crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: intrinsic
             homepage_url: https://www.intrinsic.ai/
