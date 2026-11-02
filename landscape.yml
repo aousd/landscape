@@ -371,7 +371,12 @@ landscape:
             name: Rockwell Automation
             homepage_url: https://rockwellautomation.com/
             logo: rockwell_automation.svg
-            description: 'Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000 people serving customers in more than 80 countries.'
+            description: |-
+              Founded in 1903, Rockwell Automation Inc. (NYSE: ROK), the worlds largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Wisconsin, Rockwell Automation employs approximately 22,000 people serving customers in more than 80 countries.
+
+              --- Merged Data:
+
+              Rockwell Automation is the global leader in industrial automation, offering innovative solutions to enhance productivity and sustainability for manufacturers.
             crunchbase: https://www.crunchbase.com/organization/rockwell-automation
             twitter: https://twitter.com/ROKAutomation
             extra:
