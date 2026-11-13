@@ -391,9 +391,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/invensys
           - item:
             name: SGDL Innovation SA
-            homepage_url: https://sgdl.ai/
+            homepage_url: https://sgdl.com/
             logo: sgdl_innovation_sa.svg
-            description: SGDL Innovation SA specializes in developing advanced multidimensional data structures and algorithms, focusing on innovations in data modeling and simulation that integrate both modern and traditional technologies..
+            description: SGDL Innovation SA develops a deterministic spatial computing technology designed to make AI systems more accurate, efficient and verifiable when interacting with the physical world. Built around three complementary pillars — BigNum, ExoLanguage and World Models — SGDL provides a compact and precise way to describe, represent and compute complex spatial structures. Working alongside existing AI models, SGDL aims to bridge the gap between AI-generated reasoning and deterministic, machine-verifiable spatial computation. Through its contribution to open standards and the OpenUSD ecosystem, SGDL seeks to support interoperability and advance the foundations of spatial intelligence across robotics, digital twins, industrial applications and scientific research.
           - item:
             name: SideFX
             homepage_url: https://sidefx.com/
