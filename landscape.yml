@@ -182,7 +182,7 @@ landscape:
           - item:
             name: Delta Electronics, INC. (incorporate)
             homepage_url: https://deltaww.com/
-            logo: delta_electronics_inc.svg
+            logo: delta_electronics_inc_incorporate.svg
             description: Delta Electronics is a global provider of power and thermal management solutions. Delta is also a provider of industrial automation, building automation, and energy and ICT infrastructure. Delta products include fans, power systems, telecom systems, networking, industrial power, and renewable energy solutions. Delta Electronics is headquartered in Taipei, Taiwan with operations around the world.
             crunchbase: https://www.crunchbase.com/organization/delta-electronics-inc
             twitter: https://twitter.com/Delta_Americas
@@ -198,7 +198,7 @@ landscape:
           - item:
             name: Environmental Systems Research Institute, Inc. (ESRI)
             homepage_url: https://esri.com/
-            logo: environmental_systems_research_institute_inc.svg
+            logo: environmental_systems_research_institute_inc_esri.svg
             description: Esri develops geographic information system (GIS) solutions that function as an integral component in nearly every type of organization. The company's focus remains on producing excellent software and delivering exceptional service to users. Esri believes that better information makes for better decisions. Its reputation is built on contributing technical knowledge, special people, and valuable experience to the collection, analysis, and communication of geographic information. The software is used by more than 350,000 organizations worldwide including most U.S. federal agencies and national mapping agencies, 45 of the top 50 petroleum companies, all 50 U.S. state health departments, most forestry companies, more than 24,000 state and local governments, and many others in dozens of industries.
             crunchbase: https://www.crunchbase.com/organization/esri
             twitter: https://twitter.com/Esri
@@ -242,7 +242,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co.svg
+            logo: huawei_technologies_co_ltd.svg
             description: Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in Shenzhen, China.
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
